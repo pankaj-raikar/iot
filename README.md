@@ -1,3 +1,8 @@
+Assumptions applied: Arduino Uno‑class @5V, Pi 3/4 @3.3V, HC‑SR04 ultrasonic, SSD1306
+  I2C 128×32 on Pi, sensors/actuators on Arduino, Pi↔Arduino via USB serial, LED
+  resistors available.
+
+
 GalleryGuard — “Invisible buffer for priceless art.”
 
   Why it wins (rubric):
